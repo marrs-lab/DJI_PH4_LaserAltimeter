@@ -23,7 +23,7 @@ There are three folders containing ;
 
 | Folder | Description |
 | ------ | ------ |
-| 3D Printer Files | STL's for printing the mouting frame |
+| 3D Printer Files | STL's for printing the mounting frame |
 | Arduino Code | Arduino code and libraries for the sensors. I have included the instructions from Steve Dawson & Hamish Bowman’s (Departments of Marine Science and Geology, University of Otago, Dunedin New Zealand) This is all their work and code and I have just included this as a reference |
 | Assembly | Some assembly images and references. We have been using modified SF11C laser settings with good results over the water. Information on these settings are included in the assembly folder |
 
